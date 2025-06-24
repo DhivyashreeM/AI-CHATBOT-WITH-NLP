@@ -125,6 +125,7 @@ This chatbot can be applied in various domains:
 - No Internet Dependency → Works offline once dependencies are installed.
 
 ### OUTPUT
+![Image](https://github.com/user-attachments/assets/ca8b026d-bb5e-48b8-b872-9df87e651671)
 
 ### CONCLUSION
 This NLP-enhanced chatbot demonstrates how rule-based systems and machine learning can work together to create an interactive virtual assistant. Its applications span across industries, from customer service to healthcare, making it a versatile tool for automated communication.
