@@ -30,11 +30,11 @@ This task involves the creation of an intelligent chatbot using Python, incorpor
 The chatbot is built using the following Python libraries and frameworks:
 
 **1. Natural Language Toolkit (NLTK)**  
-**- nltk.chat.util** → Provides a rule-based chatbot framework with predefined response patterns.
+- **nltk.chat.util** → Provides a rule-based chatbot framework with predefined response patterns.
 
-**- nltk.download('punkt')** → Used for tokenization (splitting text into words/sentences).
+- **nltk.download('punkt')** → Used for tokenization (splitting text into words/sentences).
 
-**- nltk.download('wordnet')** → Enables lemmatization (reducing words to their base forms).
+- **nltk.download('wordnet')** → Enables lemmatization (reducing words to their base forms).
 
 **2. spaCy**  
 - A powerful NLP library used for advanced text preprocessing.
@@ -44,11 +44,11 @@ The chatbot is built using the following Python libraries and frameworks:
 - Helps in understanding user intent by analyzing sentence structure.
 
 **3. Python Standard Libraries**  
-**datetime** → Used to fetch and display the current time and date.
+- **datetime** → Used to fetch and display the current time and date.
 
-**random** → Helps in selecting random responses for a more dynamic conversation.
+- **random** → Helps in selecting random responses for a more dynamic conversation.
 
-**subprocess** → Ensures the spaCy language model is downloaded if missing.
+- **subprocess** → Ensures the spaCy language model is downloaded if missing.
 
 ### EDITOR AND PLATFORM COMPATIBILITY  
 This chatbot can be developed and executed in various environments:
